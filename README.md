@@ -1,2 +1,3 @@
 # Multi-Server-Chat-System
-My Full Mark project of the Distributed System 
+My Full Mark project for the Distributed System subject in unimelb
+
